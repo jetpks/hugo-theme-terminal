@@ -1,3 +1,3 @@
-module github.com/panr/hugo-theme-terminal/v3
+module github.com/jetpks/hugo-theme-terminal
 
-go 1.19
+go 1.20
