@@ -1,4 +1,16 @@
-# Terminal
+# Terminal theme for [slush.systems](https://slush.systems/)
+
+This is a fork of
+[panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) with
+some modifications for [slush.systems](https://slush.systems/).
+
+## TODO
+
+- Move ToC to top right of post div unless below a certain width
+- 
+
+
+# Terminal - Original Readme
 
 ![Terminal](https://github.com/panr/hugo-theme-terminal/blob/master/images/screenshot.png?raw=true)
 
